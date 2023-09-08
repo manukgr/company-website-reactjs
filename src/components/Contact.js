@@ -2,6 +2,7 @@ function Contact() {
   return (
     <div className="container contact">
       <h2 className="main-title text-center">CONTACT</h2>
+      <form name="contact" netlify>
       <div className="col-md-12">
         <div className="row">
           <div className="col-md-4 mb-1">
@@ -35,6 +36,7 @@ function Contact() {
           <input className="form-btn" type="submit" value="Send Message" />
         </div>
       </div>
+      </form>
     </div>
   );
 }
