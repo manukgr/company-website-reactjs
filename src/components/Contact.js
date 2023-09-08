@@ -2,7 +2,7 @@ function Contact() {
   return (
     <div className="container contact">
       <h2 className="main-title text-center">CONTACT</h2>
-      <form name="contact" netlify>
+      <form name="contact" method="POST" data-netlify="true">
       <div className="col-md-12">
         <div className="row">
           <div className="col-md-4 mb-1">
