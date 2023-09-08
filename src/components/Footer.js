@@ -46,13 +46,13 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >burhankcd@gmail.com</Link>
+                    <Link to="#" >manumandeep1818@gmail.com</Link>
                   </li>
                   <li>
-                    <Link to="#" > Burhan #3265</Link>
+                    <Link to="#" >+919560912579</Link>
                   </li>
                   <li>
-                    <Link to="#" >0212 444 44 44</Link>
+                    <Link to="#" >+918580476918</Link>
                   </li>
                 </ul>
               </div>
@@ -60,13 +60,13 @@ function Footer() {
                 <p className="footer-title">Social Media</p>
                 <ul>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/darkleas" > Github</a>
+                    <a target="_blank" rel="noreferrer" href="https://github.com/manukgr" > Github</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > Twitter</a>
+                    {/* <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > Twitter</a> */}
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"> Linkedin</a>
+                    {/* <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"> Linkedin</a> */}
                   </li>
                 </ul>
               </div>

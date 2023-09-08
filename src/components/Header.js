@@ -3,8 +3,10 @@ function Header() {
     <header>
       <video src="./video.mp4" loop autoPlay muted></video>
       <h1>Super Soft Technologies</h1>
-    <h3>One stop solution for your software products with AI power</h3>
-      // <div className="row">
+    <h3>One stop solution for your software products with AI power 
+        Free one month demo
+    </h3>
+      {/* // <div className="row">
       //   <button className="btn" style={{ cursor: "pointer" }}>
       //     Sign Up
       //   </button>
@@ -12,7 +14,7 @@ function Header() {
       //   <button className="btn" style={{ cursor: "pointer" }}>
       //     Log in
       //   </button>
-      // </div>
+      // </div> */}
 
       <div className="headerbg"></div>
     </header>
